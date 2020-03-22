@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="seniorzy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#0052A5;stroke-width:1.68;stroke-miterlimit:10;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#0052A5;}
+	.st2{fill:none;stroke:#0052A5;stroke-width:1.68;stroke-miterlimit:10;}
+	.st3{fill:#0052A5;}
+</style>
+<path class="st0" d="M4.5,36.2c-1.9,0-3.5-1.8-3.5-3.9c0-2.2,1.6-3.9,3.5-3.9"/>
+<path class="st0" d="M29.7,28.3c1.9,0,3.5,1.8,3.5,3.9c0,2.2-1.6,3.9-3.5,3.9"/>
+<ellipse class="st0" cx="17.2" cy="32.8" rx="13.3" ry="15"/>
+<circle class="st1" cx="11.5" cy="33.7" r="1.4"/>
+<circle class="st1" cx="21.9" cy="33.7" r="1.4"/>
+<circle class="st0" cx="11.5" cy="32.5" r="4.4"/>
+<circle class="st0" cx="22.5" cy="32.5" r="4.4"/>
+<path class="st0" d="M15.6,34.2c0.3-0.5,0.8-0.8,1.4-0.8c0.6,0,1,0.3,1.3,0.7"/>
+<line class="st2" x1="4.7" y1="28.4" x2="7.3" y2="31.1"/>
+<line class="st2" x1="29.7" y1="28.2" x2="26.9" y2="31"/>
+<polyline class="st2" points="23,14.1 23,1.3 48,1.3 48,21.3 33.2,21.3 31.4,23.2 "/>
+<path class="st2" d="M25.9,42.7c-0.7,0.3-1.3,0.2-2.2,0c-1.1-0.3-1.9-2.2-3.3-3c-1.3-0.7-3-0.2-3.3-0.1c-0.3-0.1-2.1-0.6-3.3,0.1
+	c-1.4,0.8-2.3,2.9-3.4,3.1c-1.1,0.2-1.5,0.1-2.2-0.1c-0.7-0.2,1.4,2.6,4.2,2.4c2.4-0.2,4-1.8,4.6-2.6c0.6,0.8,2.3,2.4,4.6,2.6
+	C24.5,45.3,26.7,42.4,25.9,42.7z"/>
+<g>
+	<path class="st3" d="M34.1,13.8v-0.6c0-0.5,0.1-1,0.3-1.4c0.2-0.4,0.7-0.8,1.3-1.3c0.6-0.4,1-0.8,1.2-1c0.2-0.3,0.3-0.6,0.3-0.9
+		c0-0.4-0.1-0.6-0.4-0.8c-0.3-0.2-0.6-0.3-1.1-0.3c-0.8,0-1.8,0.3-2.9,0.8l-0.9-1.8c1.3-0.7,2.6-1.1,4-1.1c1.2,0,2.1,0.3,2.8,0.8
+		s1,1.3,1,2.2c0,0.6-0.1,1.2-0.4,1.6c-0.3,0.4-0.8,1-1.6,1.5c-0.5,0.4-0.9,0.7-1,0.9c-0.1,0.2-0.2,0.5-0.2,0.8v0.5H34.1z M33.8,16.7
+		c0-0.5,0.1-0.8,0.4-1.1c0.3-0.2,0.6-0.4,1.1-0.4c0.5,0,0.8,0.1,1.1,0.4c0.3,0.2,0.4,0.6,0.4,1.1c0,0.4-0.1,0.8-0.4,1
+		c-0.3,0.3-0.6,0.4-1.1,0.4c-0.5,0-0.8-0.1-1.1-0.4S33.8,17.1,33.8,16.7z"/>
+</g>
+</svg>
