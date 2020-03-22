@@ -17,21 +17,29 @@ body {
   line-height: 1.5;
   color: #1b1b1b;
   font-size: 1rem;
+  min-height: 100%;
 }
 main {
   flex-grow: 1;
+  /* flex: 1 0 auto; */
 }
 main,
 header,
 footer {
   width: 100%;
 }
-h1 {
-  /* font-size: 1.2rem; */
-}
 a {
   text-decoration: none;
   color: #000;
+}
+h3 {
+  margin: 0;
+  font-size: 1.3em;
+  font-weight: 400;
+  color: #0052a5;
+}
+h3:hover {
+  text-decoration: underline;
 }
 /* розділення шаблона від тіла программи ======== */
 /* ============================================= */
@@ -277,16 +285,69 @@ a {
 .main-icons__wraper__block p:hover {
   text-decoration: underline;
 }
-/* footer***************************************** */
-
-.footer {
-  margin-top: 25rem;
-  height: 20rem;
+/* main-news************************* */
+.main-news {
+  display: flex;
+  margin-top: 4rem;
+}
+.main-news__left__photo img {
+  max-width: 80rem;
+}
+.main-news__rigth {
+  padding-left: 3rem;
+}
+.main-news__rigth a {
+  color: #0052a5;
+  font-size: 1.5em;
+  line-height: 1.3;
+}
+.main-news__rigth a:hover {
+  text-decoration: underline;
+}
+/* .main-news__rigth__up h3 {
+  font-size: 1.3em;
+} */
+.main-news__right__up a {
+  font-size: 0.9em;
+}
+.main-news__right__down {
+  margin-top: 5rem;
+}
+/* main-answer *********************************** */
+.main-answer {
+  display: flex;
+  margin-top: 4rem;
+  justify-content: space-between;
+}
+.main-answer__block {
+  display: flex;
+  flex-direction: column;
+}
+.main-answer__block img {
+  width: 25rem;
+  height: 13rem;
+  margin-bottom: 2rem;
+}
+/* video ***************************** */
+.main-video iframe {
   width: 100%;
+  height: 40rem;
+  margin-top: 3rem;
+}
+/* footer***************************************** */
+.footer {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 120rem;
+  height: 5rem;
   border-top: 3px solid #d5233f;
   /* background-color: #e60023; */
 }
-
+.footer-copyright {
+  width: 50%;
+  padding: 2.5rem 10rem 0;
+  height: 5rem;
+}
 /*========== social ===========*/
 /* @import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css"); */
 .basement-social {
@@ -294,7 +355,7 @@ a {
   justify-content: flex-end;
   width: 100%;
   text-align: right;
-  margin: 15rem 0 0;
+  margin: 1rem 0 0;
   max-height: 80px;
   font-size: 2em;
 }
